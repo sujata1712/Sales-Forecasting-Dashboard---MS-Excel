@@ -85,13 +85,19 @@ This project simulates a **real-world business intelligence dashboard** and is i
 
 ---
 
+### 🎥 Watch Demo Video
+
+[**Demo Video**](https://github.com/sujata1712/Sales-Forecasting-Dashboard---MS-Excel/blob/main/Demo.mp4)
+
+---
+
 ## 🙌 Credits
 
 - **Dataset:** Rohit Sahoo (Kaggle)
 - **Design Inspiration:** Business Intelligence dashboarding best practices
-
-
+  
 ---
+
 
 > ⚡ *This project reflects my passion for building impactful data-driven solutions using simple yet powerful tools like Excel.*
 
